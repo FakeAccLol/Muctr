@@ -1,0 +1,10 @@
+C:\Users\Student\AppData\Local\Temporary Projects\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\lab1\bin\Debug\lab1.exe
+C:\Users\Student\AppData\Local\Temporary Projects\lab1\bin\Debug\lab1.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\lab1\obj\x86\Debug\lab1.Form1.resources
+C:\Users\Student\AppData\Local\Temporary Projects\lab1\obj\x86\Debug\lab1.exe
+C:\Users\Student\AppData\Local\Temporary Projects\lab1\obj\x86\Debug\lab1.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\lab1\obj\x86\Debug\lab1.Form2.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Lab1\lab1\lab1\obj\x86\Debug\lab1.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\Lab1\lab1\lab1\obj\x86\Debug\lab1.pdb
