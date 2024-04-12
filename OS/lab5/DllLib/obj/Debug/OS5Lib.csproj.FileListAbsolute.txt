@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\OS5Lib\obj\Debug\OS5Lib.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\OS5Lib\obj\Debug\OS5Lib.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\OS5Lib\bin\Debug\OS5Lib.dll
+C:\Users\LEGION\source\repos\OS5Lib\bin\Debug\OS5Lib.pdb
+C:\Users\LEGION\source\repos\OS5Lib\obj\Debug\OS5Lib.dll
+C:\Users\LEGION\source\repos\OS5Lib\obj\Debug\OS5Lib.pdb
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\bin\Debug\OS5Lib.dll
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\bin\Debug\OS5Lib.pdb
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\obj\Debug\OS5Lib.csproj.AssemblyReference.cache
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\obj\Debug\OS5Lib.csproj.CoreCompileInputs.cache
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\obj\Debug\OS5Lib.dll
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\obj\Debug\OS5Lib.pdb

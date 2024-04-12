@@ -1,0 +1,12 @@
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\bin\Debug\OS5Lib.dll
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\bin\Debug\OS5Lib.pdb
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\obj\Debug\DllLib.csproj.AssemblyReference.cache
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\obj\Debug\DllLib.csproj.CoreCompileInputs.cache
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\obj\Debug\OS5Lib.dll
+D:\WhiRav_D\Programs\C#\OS\lab5\OS5Lib\obj\Debug\OS5Lib.pdb
+D:\WhiRav_D\Programs\C#\OS\lab5\DllLib\bin\Debug\OS5Lib.dll
+D:\WhiRav_D\Programs\C#\OS\lab5\DllLib\bin\Debug\OS5Lib.pdb
+D:\WhiRav_D\Programs\C#\OS\lab5\DllLib\obj\Debug\DllLib.csproj.AssemblyReference.cache
+D:\WhiRav_D\Programs\C#\OS\lab5\DllLib\obj\Debug\DllLib.csproj.CoreCompileInputs.cache
+D:\WhiRav_D\Programs\C#\OS\lab5\DllLib\obj\Debug\OS5Lib.dll
+D:\WhiRav_D\Programs\C#\OS\lab5\DllLib\obj\Debug\OS5Lib.pdb
