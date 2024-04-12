@@ -1,0 +1,17 @@
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.Form1.resources
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.Properties.Resources.resources
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.csproj.GenerateResource.cache
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.GeneratedMSBuildEditorConfig.editorconfig
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.AssemblyInfoInputs.cache
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.AssemblyInfo.cs
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.csproj.CoreCompileInputs.cache
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\bin\Debug\net8.0-windows\MultiThreads.exe
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\bin\Debug\net8.0-windows\MultiThreads.deps.json
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\bin\Debug\net8.0-windows\MultiThreads.runtimeconfig.json
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\bin\Debug\net8.0-windows\MultiThreads.dll
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\bin\Debug\net8.0-windows\MultiThreads.pdb
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.dll
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\refint\MultiThreads.dll
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.pdb
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\MultiThreads.genruntimeconfig.cache
+D:\WhiRav_D\Programs\C#\OS\MultiThreads\obj\Debug\net8.0-windows\ref\MultiThreads.dll
